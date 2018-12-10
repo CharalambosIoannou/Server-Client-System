@@ -1,0 +1,7 @@
+INFO:root:Start time: 10/12/2018 14:57:02 
+INFO:root:Date and time of incoming client connection request: 10/12/2018 14:57:03 
+INFO:root:Connected Succesfully on: ('127.0.0.1', 15000) 
+INFO:root:Received artist name from client: Paul Anka/Odia Coates 
+INFO:root:Received artist name from client: Paul Anka 
+INFO:root:Received artist name from client: Odia Coates 
+INFO:root:length of time the server was connected to a client: 36  seconds

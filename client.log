@@ -1,0 +1,9 @@
+INFO:root:It took 0.003 ms to to receive a response from the server for the request to get songs for: Paul Anka/Odia Coates 
+INFO:root:The response length was 24.0  bytes 
+INFO:root:Received a response from the server: 10/12/2018 14:57:15 
+INFO:root:It took 0.003 ms to to receive a response from the server for the request to get songs for: Paul Anka 
+INFO:root:The response length was 43.0  bytes 
+INFO:root:Received a response from the server: 10/12/2018 14:57:22 
+INFO:root:It took 0.003 ms to to receive a response from the server for the request to get songs for: Odia Coates 
+INFO:root:The response length was 24.0  bytes 
+INFO:root:Received a response from the server: 10/12/2018 14:57:34 
